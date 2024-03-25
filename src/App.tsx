@@ -1,11 +1,17 @@
-
-import './App.css'
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+import { Routes, Route } from "react-router-dom";
+import { Container } from "react-bootstrap";
 
 function App() {
-  return (<><h1> Hello Emmanuella </h1>
-  <p>Dev queen Init</p></>
-  )
- 
+  return (
+    <>
+      <Container>
+        <Routes>
+          <Route path="/" element={<Home />} />
+        </Routes>
+      </Container>
+    </>
+  );
 }
 
-export default App
+export default App;
