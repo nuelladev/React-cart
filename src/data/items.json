@@ -1,26 +1,26 @@
 [
     {
       "id": 1,
-      "name": "Book",
+      "name": "compflex",
       "price": 10.99,
-      "imgUrl": "/imgs/book.jpg"
+      "imgUrl": "/imgs/1.jpg"
     },
     {
       "id": 2,
-      "name": "Computer",
+      "name": "webflex",
       "price": 1199,
-      "imgUrl": "/imgs/computer.jpg"
+      "imgUrl": "/imgs/2.jpg"
     },
     {
       "id": 3,
-      "name": "Banana",
+      "name": "symflex",
       "price": 1.05,
-      "imgUrl": "/imgs/banana.jpg"
+      "imgUrl": "/imgs/3.jpg"
     },
     {
       "id": 4,
-      "name": "Car",
+      "name": "posflex",
       "price": 14000,
-      "imgUrl": "/imgs/car.jpg"
+      "imgUrl": "/imgs/4.jpg"
     }
   ]
